@@ -14,5 +14,5 @@ void main()
 	mm = (second % 3600 ) /60 ;
 	ss = second %60 ;
 	
-	printf("%02d:%02d:%02d\n", hh, mm, ss);
+	printf("hh , mm, ss \n", hh, mm, ss);
 }
