@@ -5,14 +5,15 @@ void main()
 {
 	//wap to convert second into hh:mm:ss.
 	
-	int second, hh , mm , ss;
+	int second;
 	
 	printf("Enter  second:");
 	scanf("%d",&second);
+
+	int minutes = second/60;
+	int hours = minutes/60;
+	minutes =minutes - (hours* 60);
+	second = second - (minutes*60) -(hours*60*60);
 	
-	hh = second / 3600 ;
-	mm = (second % 3600 ) /60 ;
-	ss = second %60 ;
-	
-	printf("hh , mm, ss \n", hh, mm, ss);
+	printf("%d:%d:%d\n",hours,minutes, second);
 }
