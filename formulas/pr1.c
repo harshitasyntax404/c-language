@@ -9,7 +9,7 @@ void main()
 //	float r= 23.78;
 //	float area = pi * r * r;
 
-//	printf("%.2f",area);
+//	printf("%.2",area);
 	
 	 
 	
