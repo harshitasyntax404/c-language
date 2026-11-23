@@ -46,82 +46,82 @@ void main()
     printf("E : * * * * * \n\n");
 
     
-    printf("F : ***** \n");
+    printf("F : * * * * * \n");
     printf("F : *     \n");
-    printf("F : ****  \n");
+    printf("F : * * * *  \n");
     printf("F : *     \n");
     printf("F : *     \n");
     printf("F : *     \n\n");
 
    
-    printf("G : ***** \n");
+    printf("G :   * * * * \n");
     printf("G : *     \n");
-    printf("G : * *** \n");
-    printf("G : *   * \n");
-    printf("G : *   * \n");
-    printf("G : ***** \n\n");
+    printf("G : *   * * \n");
+    printf("G : *        * \n");
+    printf("G : *        * \n");
+    printf("G :   * * *  \n\n");
 
     
-    printf("H : *   * \n");
-    printf("H : *   * \n");
-    printf("H : ***** \n");
-    printf("H : *   * \n");
-    printf("H : *   * \n");
-    printf("H : *   * \n\n");
+    printf("H : *       * \n");
+    printf("H : *       * \n");
+    printf("H : * * * * * \n");
+    printf("H : *       * \n");
+    printf("H : *       * \n");
+    printf("H : *       * \n\n");
 
-    printf("I : ***** \n");
-    printf("I :   *   \n");
-    printf("I :   *   \n");
-    printf("I :   *   \n");
-    printf("I :   *   \n");
-    printf("I : ***** \n\n");
+    printf("I : * * * * * \n");
+    printf("I :     *   \n");
+    printf("I :     *   \n");
+    printf("I :     *   \n");
+    printf("I :     *    \n");
+    printf("I : * * * * * \n\n");
 
     
-    printf("J : ***** \n");
-    printf("J :    *  \n");
-    printf("J :    *  \n");
-    printf("J : *  *  \n");
-    printf("J : *  *  \n");
-    printf("J : ****  \n\n");
+    printf("J : * * * * * \n");
+    printf("J :     *  \n");
+    printf("J :     *  \n");
+    printf("J : *   *  \n");
+    printf("J : *   *  \n");
+    printf("J :  * *  \n\n");
 
-    printf("K : *   * \n");
-    printf("K : *  *  \n");
-    printf("K : ***   \n");
-    printf("K : *  *  \n");
-    printf("K : *   * \n");
-    printf("K : *   * \n\n");
+    printf("K : *       * \n");
+    printf("K : *     *  \n");
+    printf("K : * * *   \n");
+    printf("K : *     *  \n");
+    printf("K : *       * \n");
+    printf("K : *         * \n\n");
 
     printf("L : *     \n");
     printf("L : *     \n");
     printf("L : *     \n");
     printf("L : *     \n");
     printf("L : *     \n");
-    printf("L : ***** \n\n");
+    printf("L : * * * * * \n\n");
 
-    printf("M : *   * \n");
-    printf("M : ** ** \n");
-    printf("M : * * * \n");
-    printf("M : *   * \n");
-    printf("M : *   * \n");
-    printf("M : *   * \n\n");
+    printf("M : *    * \n");
+    printf("M : * * * * \n");
+    printf("M : *  *  * \n");
+    printf("M : *     * \n");
+    printf("M : *     * \n");
+    printf("M : *     * \n\n");
 
-    printf("N : *   * \n");
-    printf("N : **  * \n");
-    printf("N : * * * \n");
-    printf("N : *  ** \n");
-    printf("N : *   * \n");
-    printf("N : *   * \n\n");
+    printf("N : *           * \n");
+    printf("N : *  *        * \n");
+    printf("N : *    *      * \n");
+    printf("N : *      *    * \n");
+    printf("N : *        * \n");
+    printf("N : *           * \n\n");
 
-    printf("O : ***** \n");
-    printf("O : *   * \n");
-    printf("O : *   * \n");
-    printf("O : *   * \n");
-    printf("O : *   * \n");
-    printf("O : ***** \n\n");
+    printf("O :   * * * * \n");
+    printf("O : *         * \n");
+    printf("O : *         * \n");
+    printf("O : *         * \n");
+    printf("O : *         * \n");
+    printf("O :   * * * * \n\n");
 
-    printf("P : ****  \n");
-    printf("P : *   * \n");
-    printf("P : ****  \n");
+    printf("P : * * * *  \n");
+    printf("P : *      * \n");
+    printf("P : * * * *  \n");
     printf("P : *     \n");
     printf("P : *     \n");
     printf("P : *     \n\n");
