@@ -14,18 +14,18 @@ void main()
 	
 	//3
 	
-	printf(" - - -/n");
-	printf("|     |\n");
-	printf("H     |\n");
-	printf("A     |\n");
-	printf("R     |\n");
-	printf("S     |\n");
-	printf("H     |\n");
-	printf("I     |\n");
-	printf("T     |\n");
-	printf("A     |\n");
-	printf("|     |\n");
-	printf(" - - -/n");
+	printf(" - - - - - /n");
+	printf("|         |\n");
+	printf("H         |\n");
+	printf("A         |\n");
+	printf("R         |\n");
+	printf("S         |\n");
+	printf("H         |\n");
+	printf("I         |\n");
+	printf("T         |\n");
+	printf("A         |\n");
+	printf("|         |\n");
+	printf(" - - - - -/n");
 	
 	// 4
 	
