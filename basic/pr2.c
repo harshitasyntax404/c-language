@@ -162,43 +162,43 @@ void main()
     printf("U : *        * \n");
     printf("U : * * *  * * \n\n");
 
-    printf("V : *   * \n");
-    printf("V : *   * \n");
-    printf("V : *   * \n");
-    printf("V : *   * \n");
-    printf("V :  * *  \n");
-    printf("V :   *   \n\n");
+    printf("V : *      * \n");
+    printf("V : *      * \n");
+    printf("V : *      * \n");
+    printf("V : *      * \n");
+    printf("V :  *    *  \n");
+    printf("V :    *   \n\n");
 
-    printf("W : *   * \n");
-    printf("W : *   * \n");
-    printf("W : * * * \n");
-    printf("W : * * * \n");
-    printf("W : ** ** \n");
-    printf("W : *   * \n\n");
-
-    
-    printf("X : *   * \n");
-    printf("X :  * *  \n");
-    printf("X :   *   \n");
-    printf("X :  * *  \n");
-    printf("X : *   * \n");
-    printf("X : *   * \n\n");
+    printf("W : *       * \n");
+    printf("W : *       * \n");
+    printf("W : *       * \n");
+    printf("W : *   *   * \n");
+    printf("W : *  *  * * \n");
+    printf("W : *       * \n\n");
 
     
-    printf("Y : *   * \n");
-    printf("Y :  * *  \n");
-    printf("Y :   *   \n");
-    printf("Y :   *   \n");
-    printf("Y :   *   \n");
-    printf("Y :   *   \n\n");
+    printf("X :  *       * \n");
+    printf("X :    *   *  \n");
+    printf("X :      *   \n");
+    printf("X :    *   *  \n");
+    printf("X :  *       * \n");
+    printf("X : *          * \n\n");
 
     
-    printf("Z : ***** \n");
-    printf("Z :    *  \n");
-    printf("Z :   *   \n");
-    printf("Z :  *    \n");
-    printf("Z : *     \n");
-    printf("Z : ***** \n");
+    printf("Y : *     * \n");
+    printf("Y :  *   *  \n");
+    printf("Y :    *   \n");
+    printf("Y :    *   \n");
+    printf("Y :    *   \n");
+    printf("Y :    *   \n\n");
+
+    
+    printf("Z : * * * * * \n");
+    printf("Z :        *  \n");
+    printf("Z :      *   \n");
+    printf("Z :    *    \n");
+    printf("Z :  *     \n");
+    printf("Z : * * * * * \n");
 
     
 }
