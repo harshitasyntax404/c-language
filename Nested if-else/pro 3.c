@@ -10,7 +10,7 @@ void main()
 	// , b\c , b\d;
 	//  ,  , c\d;
 
-}
+
 
 	printf("Enter num for a :");
 	scanf("%d",&a);
@@ -25,52 +25,57 @@ void main()
 	scanf("%d",&d);
 	
 	if(a>b)
-	{	
-		// a is win
-		if(a>c);
-	 		printf("a is win");
-		else{
-			printf("c is win");
-		}
-		if(a>d);
-	 		printf("a is win");
-		else{
-			printf("d is win");
-		}
-	}
-	
-	else{
-		// a is defent
-		
-		if(b>c){
-			//b win
-			printf("b is win");
-		}
-		else{
-			// b defe
-			printf("c is win");
-		}
-		
-		if(b>d){
-			// b is win
-			printf("b is win");
-			
-		}
-		else{
-			//d is win
-			printf("d is win");
-		}
-		if(d>c)
+	{
+		//a ,c,d
+		if(a>c)
 		{
-			// d id win
-			printf("d is win");
-			
+			//a ,d
+			if(a>d)
+			{
+				printf(" a is max");	
+			}
+			else{
+				printf("d is max");
+			}	
 		}
 		else{
-			//c is win
-			printf("c is win");
+			//c ,d
+			if(c>d)
+			{
+				printf("c is max");
+			}
+			else{
+				printf("d is max");
+			}
 		}
 	}
-	
-	
+	else
+	{
+		//b , c ,d
+		if(b>c)
+		{
+			// b , d
+			if(b>d)
+			{
+				printf("b is max");
+			}
+			else
+			{
+				printf("d ia max");
+			}
+		}
+		else
+		{
+			// c ,d 
+			if(d>c)
+			{
+			 printf("d is max");	
+			}
+			else
+			{
+				printf("c is max");
+			}	
+		}
+	}
+}
 	

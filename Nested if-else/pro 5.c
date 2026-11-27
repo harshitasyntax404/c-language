@@ -11,9 +11,9 @@ void main()
 	
 	if(num%=2)
 	{
-		printf("number id odd");
+		printf("number is odd .");
 	}
 	else{
-		printf("number id even");
+		printf("number is even .");
 	}
 }

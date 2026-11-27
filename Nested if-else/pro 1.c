@@ -2,6 +2,8 @@
 
 void main()
 {
+	// wap to find maximum from 3 numbers using nested if else.
+	
 	int a ,b , c;
 	
 	printf("Enter num for a :");

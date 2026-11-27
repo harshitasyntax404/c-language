@@ -53,7 +53,7 @@ void main()
 	}
 	else
 	{
-		printf("You are failed\n");
+		printf("You are failed\n\n");
 	}
 	
 }
