@@ -48,6 +48,7 @@ void main()
 		break;
 		case 'F': printf("Sorry you failed.\n");
 		break;
+		default : printf("Enter valid input");
 	}
 			
 	// step 3 : Eligibity check.
